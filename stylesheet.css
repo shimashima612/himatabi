@@ -27,4 +27,9 @@ footer{
   display: inline-block;
   color:white;
   background-color: green;
+  padding:8px 15px;
+  border-radius: 4px;
+}
+.fab-line{
+  margin-right: 5px;
 }
