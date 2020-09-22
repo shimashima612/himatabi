@@ -6,7 +6,16 @@ body {
 a {
   text-decoration: none;
 }
-
+@media(max-width:1000px){
+  .item{
+    width:50%;
+  }
+}
+@media(max-width:670px){
+  .item{
+    width:100%;
+  }
+}
 
 .container {
   width: 1170px;
