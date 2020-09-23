@@ -55,6 +55,7 @@ header{
 }
 footer{
   text-align: center;
+
 }
 .contact{
   display: inline-block;
@@ -62,6 +63,7 @@ footer{
   padding:8px 15px;
   border-radius: 4px;
   width:100px;
+  margin-bottom: 10px;
 }
 .fab{
   margin-right: 5px;
@@ -72,4 +74,7 @@ footer{
 }
 .twitter{
   background-color: #55acee;
+}
+.cont{
+  font-weight: bold;
 }
